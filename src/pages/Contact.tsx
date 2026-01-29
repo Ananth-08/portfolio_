@@ -29,15 +29,15 @@ const Contact = () => {
   };
 
   const contactInfo = [
-    { icon: Mail, label: 'Email', value: 'hello@alexchen.dev', href: 'mailto:hello@alexchen.dev' },
-    { icon: Phone, label: 'Phone', value: '+1 (555) 123-4567', href: 'tel:+15551234567' },
-    { icon: MapPin, label: 'Location', value: 'San Francisco, CA', href: '#' },
+    { icon: Mail, label: 'Email', value: 'ananthak1506@gmail.com', href: 'mailto:ananthak1506@gmail.com' },
+    { icon: Phone, label: 'Phone', value: '+91 8098741506', href: 'tel:+91 8098741506' },
+    { icon: MapPin, label: 'Location', value: 'Coimbatore ,IND', href: '#' },
   ];
 
   const socialLinks = [
-    { icon: Github, label: 'GitHub', href: 'https://github.com' },
-    { icon: Linkedin, label: 'LinkedIn', href: 'https://linkedin.com' },
-    { icon: Mail, label: 'Email', href: 'mailto:hello@alexchen.dev' },
+    { icon: Github, label: 'GitHub', href: 'https://github.com/Ananth-08' },
+    { icon: Linkedin, label: 'LinkedIn', href: 'https://linkedin.com/in/nithyananth-madheswaran' },
+    { icon: Mail, label: 'Email', href: 'mailto:ananthak1506@gmail.com' },
   ];
 
   return (
