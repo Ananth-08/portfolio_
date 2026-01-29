@@ -79,9 +79,6 @@ const Footer = () => {
           <p className="text-sm text-muted-foreground">
             © {currentYear} DevFolio. All rights reserved.
           </p>
-          <p className="text-sm text-muted-foreground flex items-center gap-1">
-            Made with <Heart className="w-4 h-4 text-accent fill-accent" /> and lots of coffee
-          </p>
         </div>
       </div>
     </footer>
