@@ -1,4 +1,5 @@
 import { motion } from 'framer-motion';
+import profile from "../assets/img.jpg";
 import { GraduationCap, Briefcase, Target, Heart, Code2, Rocket } from 'lucide-react';
 import PageTransition from '@/components/PageTransition';
 import SectionWrapper from '@/components/SectionWrapper';
